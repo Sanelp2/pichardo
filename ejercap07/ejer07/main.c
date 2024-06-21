@@ -10,7 +10,7 @@ char cad3[20] = "Hola mexico";
 char *c, c3;
 
 i = strcmp(cad0, cad1);
-printf("\nResultado de la comparacion -cad0 y cad1: %d", i);
+printf("\nResultado de la comparacion -cad0 y cad1-: %d", i);
 
 i = strcmp(cad0, cad2);
 printf("\nResultado de la comparacion -cad0 y cad2-: %d", i);
