@@ -6,10 +6,9 @@ char a = 160, e = 130, u = 163;
 
 void main(void)
 {
-    int i = 0;
     char cad[100], resp = 'o';
     printf("**************************\n*Bienvenid@ a mi programa*\n**************************\n\n");
-    printf("Aqu%c podras saber cuantas may%csculas, min%csculas y n%cmeros tiene una cadena de car%ccteres.\n(No puede ser mayor a 100 car%ccteres).\n",i,u,u,u,a,a);
+    printf("Aqu%c podras saber cuantas may%csculas, min%csculas y n%cmeros tiene una cadena de car%ccteres.\n(No puede ser mayor a 100 car%ccteres).\n",161,u,u,u,a,a);
     do
     {
         printf("\nIngrese una cadena de car%ccteres:\n", a);
