@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1721403988 source:c:\users\user\desktop\picgar\jueguitos\main.c
+	<stdio.h>
+	<time.h>
+
